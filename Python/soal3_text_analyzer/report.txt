@@ -1,0 +1,12 @@
+=== LAPORAN ANALISIS TEKS ===
+Jumlah Baris          : 4
+Jumlah Kata           : 25
+Jumlah Huruf Vokal    : 56
+Jumlah Huruf Konsonan : 91
+
+--- GRAFIK FREKUENSI KATA ---
+belajar         #### (4)
+python          ### (3)
+dan             ### (3)
+adalah          # (1)
+bahasa          # (1)
